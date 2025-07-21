@@ -9,3 +9,5 @@
 **Step 3:**
 
         You have to create the destination in the RITS subaccount.
+        
+<img width="1111" height="571" alt="image" src="https://github.com/user-attachments/assets/7b09e1d6-effe-4646-8a72-a56562ca2f2e" />
