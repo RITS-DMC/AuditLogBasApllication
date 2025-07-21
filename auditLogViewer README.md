@@ -1,6 +1,6 @@
-**1. Clone the Repository**
+**1. Clone the auditLogViewer Folder**
 
-    - Clone the repository into the following path inside your plugin project: (yourPlugin/webapp/auditLogViewer)
+    - Clone the auditLogViewer Folder into the following path inside your plugin project: (yourPlugin/webapp/auditLogViewer)
     - Open and Identify data-name in your plugin’s index.html file.
     - Identify the value of the data-name attribute (e.g., rits.extension.plugin). This will be used in the upcoming search-and-replace operations
     
